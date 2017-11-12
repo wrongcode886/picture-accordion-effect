@@ -1,0 +1,24 @@
+.object{
+	width: 635px;
+	height: 163px;
+	margin: 20px auto;
+	border: 1px solid gray;
+}
+#subject ul .big{
+	width: 233px;
+	height: 163px;
+}
+.object ul *{
+	transition: all ease-in-out 0.5s;
+}
+.object li{
+	width: 100px;
+	height: 163px;
+	float: left;
+	overflow: hidden;
+}
+.object ul li img{
+	border: 1px solid gray;
+	width:233px;
+	height: 163px;
+}
